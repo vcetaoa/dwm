@@ -20,6 +20,9 @@
   4. Configure the filter settings if necessary.
   5. Click **Start** to apply the filter.
 
+- **Video Reference:**  
+  [Preprocessing in WEKA](https://youtu.be/nBfvRkc5TBo?si=ZiTB8rsxQQY5JGoC)
+
 ---
 
 ## 3) Association Rule Mining with Apriori
@@ -30,6 +33,9 @@
   3. Click **Choose** and select **Apriori**.
   4. Modify any parameters if needed (e.g., minimum support).
   5. Click **Start** to generate association rules.
+
+- **Video Reference:**  
+  [Apriori in WEKA](https://youtu.be/Ja_PDXdmgDc?si=49F6k60jcnWVC3F8)
 
 ---
 
@@ -45,4 +51,6 @@
 ---
 
 ## Conclusion
-These steps will guide you through performing K-Means clustering, preprocessing with IQR filters, association rule mining with Apriori, and building decision trees using the J48 algorithm in WEKA.
+These steps provide a **comprehensive guide** to using WEKA for K-Means clustering, preprocessing with IQR filters, association rule mining with Apriori, and building decision trees using J48.  
+
+The included **video links** for Preprocessing and Apriori will help you follow the steps visually and understand the concepts better.
