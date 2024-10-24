@@ -106,7 +106,7 @@ ON Fact_sales.prod_id=Product_dw.prod_id
 
 
 
-DICE
+--DICE
 SELECT Prod_name ,Total_sales ,day
 FROM ((Fact_sales
 INNER JOIN Product_dw
